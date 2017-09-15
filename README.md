@@ -56,6 +56,8 @@ nekonenene/readme_test#1
 
 # 日本語
 
+# English and 日本語
+
 # footer
 
 [#top](#top)
