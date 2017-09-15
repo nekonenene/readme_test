@@ -24,5 +24,5 @@ p align="center" style="font-size: 150%;" font-color: red;
 
 ### repo
 
-nekonenene/gtob#1
+https://github.com/nekonenene/readme_test
 
