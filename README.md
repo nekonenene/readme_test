@@ -38,10 +38,12 @@ nekonenene/readme_test#1
 
 [#footer](#footer)
 
+[#日本語](#日本語)
 
 
 
 
+
 <br>
 <br>
 <br>
@@ -49,6 +51,10 @@ nekonenene/readme_test#1
 <br>
 <br>
 <br>
+<br>
+<br>
+
+# 日本語
 
 # footer
 
